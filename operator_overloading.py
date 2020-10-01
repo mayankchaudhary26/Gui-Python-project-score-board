@@ -1,4 +1,4 @@
-class distance:
+ class distance:
     def __init__(self,x,y):
         self.inches=y
         self.feet=x
@@ -20,6 +20,7 @@ class distance:
 d1=distance(8,10)
 d2=distance(9,6)
 d3=d1+d2
+
 print(d3)
 
 
