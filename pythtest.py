@@ -1,3 +1,4 @@
+# this is pythtest
 price=105.50
 qty=36
 amount=price*qty
@@ -7,6 +8,7 @@ if amount>10000:
     amount=amount-discount
     print ("amount payable:",amount)
 
+    
     
 else:
        if amount>5000:
