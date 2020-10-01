@@ -75,4 +75,4 @@ if __name__ == "__main__":
     ui.setupUi(Form)
     Form.show()
     sys.exit(app.exec_())
-
+# WARNING! All changes made in this file will be lost
