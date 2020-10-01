@@ -1,3 +1,4 @@
+#assignment
 import sqlite3
 mystore=sqlite3.connect('bookstores.db')
 mycursor=mystore.cursor()
