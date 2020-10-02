@@ -1,5 +1,4 @@
 # this is pythtest
-# ok
 price=105.50
 qty=36
 amount=price*qty
