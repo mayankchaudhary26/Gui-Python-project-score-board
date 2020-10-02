@@ -1,4 +1,5 @@
- class distance:
+ #operator overloading
+class distance:
     def __init__(self,x,y):
         self.inches=y
         self.feet=x
