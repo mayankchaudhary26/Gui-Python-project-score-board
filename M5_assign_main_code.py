@@ -5,7 +5,6 @@ total=0
 while True:
     title=input("enter the title:")
     
-
     sql="select * from book where title='"+title+"';"
     x=mycursor.execute(sql)
     if x!=None:
