@@ -16,6 +16,7 @@ class salesman(employee):
 
 
 e1=employee(8400)
+
 print(e1.sal())
 e2=salesman(7800,1000)
 print(e2.sal())
