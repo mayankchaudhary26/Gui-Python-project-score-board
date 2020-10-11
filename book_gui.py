@@ -114,8 +114,7 @@ class Ui_Form(object):
         self.t4.setText(str(price*qnty))
         
                 
-            
-
+           
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
