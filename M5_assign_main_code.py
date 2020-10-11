@@ -2,6 +2,7 @@ import sqlite3
 mystore=sqlite3.connect('bookstores.db')
 mycursor=mystore.cursor()
 total=0
+
 while True:
     title=input("enter the title:")
     
