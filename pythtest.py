@@ -1,4 +1,3 @@
-# this is pythtest
 price=105.50
 qty=36
 amount=price*qty
@@ -27,5 +26,4 @@ print ("amount payable:",amount)
 
 
 
-     
-#done
+    
