@@ -8,7 +8,9 @@ mycursor.execute(sql)
 sql='''insert into book
 values(1,'think java','rhooney',550.0);'''
 mycursor.execute(sql)
-mystore.commit()
+
+mystore.commit() 
+
 
 sql='''insert into book
 values(2,'think python','allen',450.0);'''
