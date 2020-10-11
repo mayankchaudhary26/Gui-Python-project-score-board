@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
-# by mayank chaudhary
+
 # Form implementation generated from reading ui file 'book_gui.ui'
 #
 # Created by: PyQt5 UI code generator 5.10.1
-# 
-#check them
 #
 # WARNING! All changes made in this file will be lost!
 
