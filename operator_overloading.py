@@ -1,4 +1,3 @@
- #operator overloading
 class distance:
     def __init__(self,x,y):
         self.inches=y
