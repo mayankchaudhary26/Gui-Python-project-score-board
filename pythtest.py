@@ -5,6 +5,7 @@ if amount>10000:
     print ("20% discount applicable")
     discount=amount*20/100
     amount=amount-discount
+    
     print ("amount payable:",amount)
 
     
