@@ -3,8 +3,8 @@ price=105.50
 qty=36
 amount=price*qty
 if amount>10000:
-    print ("10% discount applicable")
-    discount=amount*10/100
+    print ("20% discount applicable")
+    discount=amount*20/100
     amount=amount-discount
     print ("amount payable:",amount)
 
@@ -13,7 +13,7 @@ if amount>10000:
 else:
        if amount>5000:
            print ("10% discount applicable")
-           discount=amount*5/100
+           discount=amount*10/100
            amount=amount-discount
         else:
             if amount>10000:
