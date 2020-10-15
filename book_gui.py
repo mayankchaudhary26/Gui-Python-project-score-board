@@ -109,11 +109,12 @@ class Ui_Form(object):
         mycursor.execute("select price from book where title='"+title+"'")
         y=mycursor.fetchone()
             
+            
         price=(y[0])        
         #print(title)
         self.t4.setText(str(price*qnty))
         
-                
+               
            
 if __name__ == "__main__":
     import sys
