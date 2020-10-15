@@ -11,7 +11,6 @@ mycursor.execute(sql)
 
 mystore.commit() 
 
-
 sql='''insert into book
 values(2,'think python','allen',450.0);'''
 mycursor.execute(sql)
