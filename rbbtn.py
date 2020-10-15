@@ -43,7 +43,6 @@ class Ui_Form(object):
         self.rbbtn1.toggled.connect(self.chkst)
         self.rbbtn2.toggled.connect(self.chkst)
         
-
         self.retranslateUi(Form)
         QtCore.QMetaObject.connectSlotsByName(Form)
 
