@@ -5,7 +5,6 @@ class employee:
     def sal(self):
         return self.salary
 
-
 class salesman(employee):
     def __init__(self,a,b):
         super().__init__(a)
