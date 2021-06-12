@@ -1,4 +1,4 @@
-# Fantasy Cricket Application
+# Fantasy Cricket Application 🏏
 
 ![fanatsy_cricket](https://user-images.githubusercontent.com/40792388/48671048-56b9f400-eb48-11e8-9a7a-ce62e3c40a58.png)
 
